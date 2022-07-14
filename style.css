@@ -25,8 +25,8 @@ body{
 }
 
 .container{
-    width: 30%;
-    height: 53%;
+    max-width: 300px;
+    max-height: 500px;
 }
 
 .card{
@@ -47,7 +47,7 @@ p{
 }
 
 img{
-    width: 100% ;
+    width: 100%;
     padding:10px;
     border-radius: 20px;
 }

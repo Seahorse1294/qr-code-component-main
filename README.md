@@ -12,6 +12,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
+Screenshot: [](./Screenshot.jpg)
+
 ### Built with
 
 - CSS custom properties

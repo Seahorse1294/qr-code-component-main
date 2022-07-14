@@ -25,4 +25,4 @@ I am having a lot of issues setting background images or backgrounds as just an 
 
 ## Author
 
-- Website - [Seahorse](https://www.your-site.com)
+- Website - [Seahorse](https://github.com/Seahorse1294)
